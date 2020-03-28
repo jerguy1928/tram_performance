@@ -15,3 +15,4 @@ the amount of scheduled tram services for a line that actually occured, accounti
 
 % Shorted: A shorted service a service that is cancelled midway because it is running too late. Yarra Trams may short a 
 service so that a line's service can be readjusted to match the scheduled timetable as much as possible.
+------------------------------------------------------------------------------------------------------------------------------
